@@ -112,17 +112,35 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
-# Array value of x:
-# Array value of y:
-# score graph:
-# sigmoid function graph:
-# x train grad value:
-# y train grad value:
-# regression value:
-# decision boundary graph:
-# Probablity value:
-# Prediction value of mean:
+## Array value of x:
+![Screenshot 2023-09-23 113924](https://github.com/premalatha-sureshbabu/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120620842/7e48ad70-907e-4585-a806-fcead19a2d76)
 
+## Array value of y:
+![Screenshot 2023-09-23 113930](https://github.com/premalatha-sureshbabu/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120620842/a7e1667e-8d94-4909-be48-ebeebaf6ac72)
+
+## score graph:
+![Screenshot 2023-09-23 113945](https://github.com/premalatha-sureshbabu/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120620842/b34a3003-38bf-40fc-870f-5c368ecf4982)
+
+## sigmoid function graph:
+![Screenshot 2023-09-23 114000](https://github.com/premalatha-sureshbabu/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120620842/98cc6cc3-da72-44bf-9ab0-b8c667afe50a)
+
+## x train grad value:
+![Screenshot 2023-09-23 114012](https://github.com/premalatha-sureshbabu/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120620842/41cab977-c53f-4e14-b70f-3cf2f1ed406f)
+
+## y train grad value:
+![Screenshot 2023-09-23 114019](https://github.com/premalatha-sureshbabu/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120620842/7e15370a-ad0c-4817-9470-1251145c316b)
+
+## regression value:
+![Screenshot 2023-09-23 114031](https://github.com/premalatha-sureshbabu/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120620842/dff70077-50b7-4310-8244-b179f3eaecef)
+
+## decision boundary graph:
+![Screenshot 2023-09-23 114059](https://github.com/premalatha-sureshbabu/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120620842/37ef683a-bf67-4590-863d-8178891be739)
+
+## Probablity value:
+![Screenshot 2023-09-23 114109](https://github.com/premalatha-sureshbabu/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120620842/e2066e39-2e84-40db-b6c5-bd5468b7a825)
+
+## Prediction value of mean:
+![Screenshot 2023-09-23 114114](https://github.com/premalatha-sureshbabu/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120620842/42e715be-3ac1-4122-9c87-a21100189de1)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
